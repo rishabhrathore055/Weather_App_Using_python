@@ -13,7 +13,8 @@ git clone https://github.com/<your-github-username>Weather_App_Using_python.git
 ````
 * Open Code Folder in Python IDEs
 <br>
-for exaple,Visual Studio Code, Sublime Text ,Atom etc.
+
+###### for exaple,Visual Studio Code, Sublime Text ,Atom etc.
 * install Respective Python libraries
 ```
 pip install tkinter
