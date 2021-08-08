@@ -222,3 +222,5 @@ min_temp.place(x=128, y=460)
 ```python
 root.mainloop()
 ```
+## Output!:
+![](image.png)
