@@ -41,3 +41,7 @@ api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 * [Linkinden](https://www.linkedin.com/in/rohit-akilaysh-vanne/)
 * [Github](https://github.com/RohitVanne)
 
+### Komal Jangra 
+* [Linkinden](https://www.linkedin.com/in/komal-jangra-378053109/)
+* [Github](https://github.com/komaljangra )
+
